@@ -15,23 +15,23 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="HTML" />
         <SkillList src={checkMarkIcon} skill="CSS" />
         <SkillList src={checkMarkIcon} skill="JavaScript" />
-        <SkillList src={checkMarkIcon} skill="TypeScript" />
+        <SkillList src={checkMarkIcon} skill="Reactjs" />
         <SkillList src={checkMarkIcon} skill="Node" />
       </div>
       <hr />
       <div className={styles.skillList}>
-        <SkillList src={checkMarkIcon} skill="React" />
-        <SkillList src={checkMarkIcon} skill="Angular" />
-        <SkillList src={checkMarkIcon} skill="Vue" />
-        <SkillList src={checkMarkIcon} skill="Tailwind CSS" />
+        <SkillList src={checkMarkIcon} skill="Java" />
+        <SkillList src={checkMarkIcon} skill="DAA" />
+        <SkillList src={checkMarkIcon} skill="DSA" />
+        <SkillList src={checkMarkIcon} skill="DBMS" />
       </div>
       <hr />
       <div className={styles.skillList}>
-        <SkillList src={checkMarkIcon} skill="Redux" />
-        <SkillList src={checkMarkIcon} skill="Webpack" />
+        <SkillList src={checkMarkIcon} skill="Aws Cloud" />
+        <SkillList src={checkMarkIcon} skill="selenium Testing" />
         <SkillList src={checkMarkIcon} skill="Git" />
-        <SkillList src={checkMarkIcon} skill="Jest" />
-        <SkillList src={checkMarkIcon} skill="Bootstrap" />
+        <SkillList src={checkMarkIcon} skill="SpringBoot" />
+        <SkillList src={checkMarkIcon} skill="MySql" />
       </div>
     </section>
   );
